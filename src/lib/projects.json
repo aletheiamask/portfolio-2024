@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "Home - Joy in Trat",
-            "link": "/home-trat",
+            "link": "https://home-trat.pages.dev/",
             "description": "This website is a guide to tourist attractions in Trat Province, created as part of a school project during class in my hometown.",
             "image": "trat.png",
             "tags": [ "Html/Css", "JavaScript", "Websites", "Open Source" ],
@@ -29,7 +29,7 @@
         {
             "name": "LIBLI",
             "link": "https://www.roblox.com/th/games/18863601540/BETA-ACCESS-LIBLI-Community-Club#!/game-instances",
-            "page": "/centurion",
+            "page": "/libli",
             "description": "A chat and relaxation area for those who are trying to escape the real world and need someone to talk to in roblox games!.",
             "image": "libli.png",
             "tags": [ "Roblox", "Lua", "Game Design" ],

@@ -6,21 +6,21 @@
     import ChevronRight from "$lib/svgs/ChevronRight.svelte";
     import ChevronDown from "$lib/svgs/ChevronDown.svelte";
     import { projects } from "$lib/projects.json";
-    const project = projects[2];
+    const project = projects[3];
 
     let screenshotCollapsed = true;
     function toggleScreenshot() { screenshotCollapsed = !screenshotCollapsed; }
 </script>
 
 <head>
-    <title>Centurion | SirArchibald.dev</title>
+    <title>Centurion | pipothai.dev</title>
     <script src="https://kit.fontawesome.com/d576307fab.js" crossorigin="anonymous"></script>
     <meta name="description" content="This page is under construction!">
-    <meta name="keywords" content="SirArchibald, Lighthouse, Stats, Player Stats, Discord, Discord bot, Discord.js, Node.js, MCC Island, MCC, MCCI">
+    <meta name="keywords" content="pipothai, Lighthouse, Stats, Player Stats, Discord, Discord bot, Discord.js, Node.js, MCC Island, MCC, MCCI">
 </head>
 
 <div>
-    <h1 class="dark:text-slate-50 text-4xl font-bold mb-4 text-center sm:text-left">🤖 Centurion</h1>
+    <h1 class="dark:text-slate-50 text-4xl font-bold mb-4 text-center sm:text-left">🤖 libli</h1>
     <div class="flex flex-col sm:flex-row">
         <div>
             {#each project.tags as tag}
