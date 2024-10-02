@@ -1,0 +1,52 @@
+{
+    "projects": [
+        {
+            "name": "Home - Joy in Trat",
+            "link": "/home-trat",
+            "description": "This website is a guide to tourist attractions in Trat Province, created as part of a school project during class in my hometown.",
+            "image": "trat.png",
+            "tags": [ "Html/Css", "JavaScript", "Websites", "Open Source" ],
+            "extra": false
+        },
+        {
+            "name": "Trat Health",
+            "link": "https://stats.sirarchibald.dev",
+            "page": "/trat_health",
+            "description": "A hub for searching and disseminating health information for the public and healthcare professionals. Providing accurate, up-to-date, and easily accessible information for effective healthcare and disease prevention.",
+            "image": "trat_health.png",
+            "tags": [ "Html/Css", "PHP", "JavaScript", "MySQL", "Bootstrap", "Open Source" ],
+            "extra": true
+        },
+        {
+            "name": "HewKhao",
+            "link": null,
+            "page": "/hewkhao",
+            "description": "an e-commerce platform with a name that'll leave you scratching your head! Inspired by our quirky professor, whose odd charm (most of the time) keeps us going. 🚧 Coming soon!",
+            "image": "hewkhao.png",
+            "tags": [ "Html/Css", "PHP", "JavaScript", "MySQL" ],
+            "extra": true
+        },
+        {
+            "name": "LIBLI",
+            "link": "https://www.roblox.com/th/games/18863601540/BETA-ACCESS-LIBLI-Community-Club#!/game-instances",
+            "page": "/centurion",
+            "description": "A chat and relaxation area for those who are trying to escape the real world and need someone to talk to in roblox games!.",
+            "image": "libli.png",
+            "tags": [ "Roblox", "Lua", "Game Design" ],
+            "extra": true
+        }
+    ],
+
+    "experience": [
+        {
+            "name": "IT support",
+            "image": "mcpfp.png",
+            "description": "I provide comprehensive IT support, troubleshooting technical issues, assisting users with software and hardware problems, and ensuring the smooth operation of systems and networks."
+        },
+        {
+            "name": "Server Engineer",
+            "image": "mod.webp",
+            "description": "I am passionate about building and maintaining server infrastructure, ensuring seamless performance and stability"
+        }
+    ]
+}
